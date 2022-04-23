@@ -1,0 +1,38 @@
+.site-update {
+    margin-top: 120px;
+}
+.site-update__content {
+    text-align: center;
+}
+.site-update__list {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+    list-style: none;
+}
+.site-update__heading {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #03101A;
+}
+.site-update__text {
+    max-width: 327px;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #6D7073;
+    opacity: 0.7;    
+}
+.site-update__link {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;
+    color: #1F98F0;    
+}

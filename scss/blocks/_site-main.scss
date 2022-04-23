@@ -1,0 +1,43 @@
+.site-main {
+    display: flex;
+    margin-bottom: 80px;
+}
+.site-main__inner-h2 {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 70px;
+    margin-left: 210px;
+    font-weight: 700;
+    line-height: 46px;
+    font-size: 38px;
+}
+.site-main__list {
+    margin-left: 210px;
+    margin-top: 85px;
+    list-style: none;
+    padding: 0px;
+}
+.site-main__item {
+    display: flex;
+    margin-bottom: 50px;
+}
+.site-main__item-quick {
+    padding-left: 30px;
+}
+.site-main__item-quick-heading {
+    max-width: 140px;
+    margin: 0px;
+    padding: 0px;
+    color: #03101A;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;    
+}
+.site-main__item-quick-text {
+    max-width: 450px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;    
+}
